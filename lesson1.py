@@ -1,3 +1,4 @@
+"Lesson 1"
 month = "July"
 year = 2026
 day = 9
